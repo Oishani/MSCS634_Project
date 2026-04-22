@@ -17,7 +17,7 @@ This project applies a full data mining pipeline to the **Customer Shopping Tren
 - **Deliverable 3:** Classification (Decision Tree, k-NN), K-Means clustering, and Apriori association rule mining to predict Subscription Status
 - **Deliverable 4:** Consolidated pipeline, cross-deliverable synthesis, and business recommendations
 
-## Files in This Repository
+## Notable Files in This Repository
 
 ```
 .
